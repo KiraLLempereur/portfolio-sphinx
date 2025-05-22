@@ -1,0 +1,11 @@
+/*
+ * Sphinx stylesheet -- theme overrides.
+ */
+
+a:visited {
+    color: #1a8b8b;
+}
+
+a:hover {
+    color: #ebfa67;
+}
